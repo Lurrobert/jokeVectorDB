@@ -1,4 +1,4 @@
-import numpy as np
+import mlx
 
 class VectorDB:
     def __init__(self):
