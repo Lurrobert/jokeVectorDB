@@ -1,4 +1,4 @@
-impor numpy
+import numpy
 
 class VectorDB:
     def __init__(self):
